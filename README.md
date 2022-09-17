@@ -1,6 +1,6 @@
 # Minimal Mistakes Jekyll theme starter
 
-Contains basic configuration to get you a site with:
+Contains basic configuration to get you a site with: 
 
 - Sample posts.
 - Sample top navigation.
